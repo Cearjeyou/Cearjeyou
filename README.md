@@ -3,6 +3,8 @@
 
 I have a passion for programming, application development and technology. In my profile, you will find different projects and code that I have done along the learning of programming.
 
+More about me:
+
 * Mechanial Engineering and Software Development Student 👨‍🎓
 * I love sharing time with my family and friends 👨‍👩‍👧‍👦 👨‍👩‍👧‍👦
 * Process engineer since 2022 🧑‍🔬
