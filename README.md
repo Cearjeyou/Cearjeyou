@@ -25,7 +25,7 @@ More about me:
 
 ## Contact
 
-[<img src="https://user-images.githubusercontent.com/87234948/211101267-5d3d4858-1f8a-4582-86d9-0e23b6a51c61.png" alt="linkedIn" width="100"/>](https://www.linkedin.com/in/carlos-arturo-bermudez-rios/)
+[<img src="https://user-images.githubusercontent.com/87234948/211101267-5d3d4858-1f8a-4582-86d9-0e23b6a51c61.png" alt="linkedIn" width="70"/>](https://www.linkedin.com/in/carlos-arturo-bermudez-rios/)
 
 <!--
 **Cearjeyou/Cearjeyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
