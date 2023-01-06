@@ -10,6 +10,11 @@ More about me:
 * Process engineer since 2022 🧑‍🔬
 * Teamwork 🧑‍🤝‍
 
+## Technologies 💎
+
+![html-5](https://user-images.githubusercontent.com/87234948/211095877-d20806e1-c8b6-4c35-88a9-4d36e55a0971.png)
+
+
 <!--
 **Cearjeyou/Cearjeyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
