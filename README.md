@@ -1,6 +1,8 @@
 # Hello! 👋
 ## My name is Carlos Rios I'm web developer 👨‍💻 and process engineer 👨‍🔬
 
+I have a passion for programming, application development and technology.
+
 <!--
 **Cearjeyou/Cearjeyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
