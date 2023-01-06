@@ -13,6 +13,12 @@ More about me:
 ## Technologies 💎
 
 ![html-5](https://user-images.githubusercontent.com/87234948/211095877-d20806e1-c8b6-4c35-88a9-4d36e55a0971.png)
+![css-3](https://user-images.githubusercontent.com/87234948/211096263-55613634-7f07-4301-b948-ccb04b27d354.png)
+![js](https://user-images.githubusercontent.com/87234948/211096274-075aafed-dc24-40e2-b5ba-9dce2be544d4.png)
+![java](https://user-images.githubusercontent.com/87234948/211096285-8bccd093-f53d-4fd3-9676-409ab3301baa.png)
+![servidor-sql](https://user-images.githubusercontent.com/87234948/211096302-261e5846-e0a3-4383-b674-d85827b83bc9.png)
+![react](https://user-images.githubusercontent.com/87234948/211096314-62bfe43c-22ca-4850-a325-9d26f7773ec3.png)
+
 
 
 <!--
