@@ -20,7 +20,7 @@ More about me:
 ![react](https://user-images.githubusercontent.com/87234948/211096314-62bfe43c-22ca-4850-a325-9d26f7773ec3.png)
 -->
 
-<img src="https://user-images.githubusercontent.com/87234948/211095877-d20806e1-c8b6-4c35-88a9-4d36e55a0971.png" alt="html-5" width="200"/>
+<img src="https://user-images.githubusercontent.com/87234948/211095877-d20806e1-c8b6-4c35-88a9-4d36e55a0971.png" alt="html-5" width="200"/> <img src="https://user-images.githubusercontent.com/87234948/211096263-55613634-7f07-4301-b948-ccb04b27d354.png" alt="css-3" width="200"/>
 
 <!--
 **Cearjeyou/Cearjeyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
