@@ -1,5 +1,5 @@
 # Hello! 👋
-## My name is Carlos Rios I'm web developer 👨‍💻 and process engineer 👨‍🔬
+## My name is Carlos Rios I'm a web developer 👨‍💻 and a process engineer 👨‍🔬
 
 I have a passion for programming, application development and technology.
 
