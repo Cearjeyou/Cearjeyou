@@ -59,8 +59,10 @@ More about me:
 
 ## Contact 📧
 
-[<img src="https://user-images.githubusercontent.com/87234948/211101267-5d3d4858-1f8a-4582-86d9-0e23b6a51c61.png" alt="linkedIn" width="70"/>](https://www.linkedin.com/in/carlos-arturo-bermudez-rios/)
-[<img src="https://user-images.githubusercontent.com/87234948/211102680-ef933a6a-446e-4758-81b8-7df730376e4a.png" alt="email" width="70"/>](mailto:arturo.bermudezrios@gmail.com)
+<section align='center'>
+  <a href="https://www.linkedin.com/in/carlos-arturo-bermudez-rios/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:arturo.bermudezrios@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+</section>
 
 <!--
 **Cearjeyou/Cearjeyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
