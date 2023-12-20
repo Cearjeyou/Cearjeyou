@@ -12,6 +12,16 @@ More about me:
 
 ## Technologies 💎
 
+### Frontend
+
+<section align='center'>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=whit" alt="Angular"/>
+</section>
+
 <!-- ![html-5 |10](https://user-images.githubusercontent.com/87234948/211095877-d20806e1-c8b6-4c35-88a9-4d36e55a0971.png)
 ![css-3](https://user-images.githubusercontent.com/87234948/211096263-55613634-7f07-4301-b948-ccb04b27d354.png)
 ![js](https://user-images.githubusercontent.com/87234948/211096274-075aafed-dc24-40e2-b5ba-9dce2be544d4.png)
